@@ -1,17 +1,33 @@
-# Into the Unknown
-## Welcome to this interactive book made by:
+# 🌲 Into the Unknown 🌲
 
-### David Muñoz Jensen - muoz0003
-### Chuhong Feng - philagoodday  feng0088
-### Solomon Tesfaye - tesf0059
-### Luz helena Rodriguez - Rodr0288
+## 👋 Welcome to this interactive adventure book!
 
-## The story:
+---
 
-It was supposed to be a regular field trip—just another day exploring the trails near campus. But when the group stopped for lunch, one student wandered a little too far. Surrounded now by unfamiliar trees and fading sunlight, they realize they’re lost. With only a backpack, a half-charged phone, and the sound of the wind through the leaves, they must decide: **follow the river deeper into the woods** or **use a river-map-path** 
+### 👤 Authors
+- **David Muñoz Jensen** &nbsp;|&nbsp; `muoz0003`
+- **Chuhong Feng** &nbsp;|&nbsp; `philagoodday` `feng0088`
+- **Solomon Tesfaye** &nbsp;|&nbsp; `tesf0059`
+- **Luz Helena Rodriguez** &nbsp;|&nbsp; `Rodr0288`
 
-## Adventure Paths
+---
 
-- [Follow the river](follow-the-river.md)
-- [The River Map](river-map-path.md)
+## 📖 The Story
 
+> It was supposed to be a regular field trip, just another day exploring the trails near campus.  
+> But when the group stopped for lunch, one student wandered a little too far.  
+> Surrounded now by unfamiliar trees and fading sunlight, they realize they’re lost.  
+> With only a backpack, a half-charged phone, and the sound of the wind through the leaves,  
+> they must decide:  
+> **Will you _follow the river deeper into the woods_, or _use a mysterious river-map-path_?**
+
+---
+
+## 🗺️ Choose Your Adventure
+
+- 🚶‍♂️ [**Follow the River**](follow-the-river.md)
+- 🗺️ [**The River Map**](river-map-path.md)
+
+---
+
+*Choose wisely. Every path leads to a new discovery... or a new danger.*
