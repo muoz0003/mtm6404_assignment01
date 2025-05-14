@@ -15,5 +15,4 @@ Should they take the map and keep following the river, or was it a trap, left by
 
 The wind picked up again, carrying with it a faint, distant sound—like footsteps. Were they alone out here?
 
-<!-- Salomon Add here an ending to the story -->
-
+Gripping the map tightly, the student made a choice. They followed the river with new determination, hoping the map would lead them out. As the trees parted ahead, a soft light glowed in the distance—a sign of civilization. They had made it.
