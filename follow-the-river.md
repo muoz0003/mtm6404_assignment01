@@ -9,7 +9,11 @@ As they walked, the path narrowed, and the trees grew thicker. The air smelled o
 
 Curious but cautious, they approached the stones. The bag was partially open, revealing a faded map inside. It looked like it had been left there deliberately—or had someone else been here before?
 
-The student felt a sudden surge of hope. Could this be a sign? 
-Should they take the map and keep following the river, or was it a trap, left by someone who didn’t want to be found?
+<!-- change this paragraph Luz Helena -->
+<!-- The student felt a sudden surge of hope. Could this be a sign? 
+Should they take the map and keep following the river, or was it a trap, left by someone who didn’t want to be found? -->
 
 The wind picked up again, carrying with it a faint, distant sound—like footsteps. Were they alone out here?
+
+<!-- Salomon Add here an ending to the story -->
+
