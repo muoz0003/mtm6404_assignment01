@@ -1,14 +1,3 @@
-# Into the Unknown
-## Welcome to this interactive book made by:
-
-### David Muñoz Jensen - muoz0003
-### Chuhong Feng - philagoodday  feng0088
-### Solomon Tesfaye - tesf0059
-### Luz helena Rodriguez - Rodr0288
-
-## The story:
-
-It was supposed to be a regular field trip—just another day exploring the trails near campus. But when the group stopped for lunch, one student wandered a little too far. Surrounded now by unfamiliar trees and fading sunlight, they realize they’re lost. With only a backpack, a half-charged phone, and the sound of the wind through the leaves, they must decide: **follow the river deeper into the woods** or **climb the ridge to look for help**?
 The student turned towards the dark flow, the sound of the water a fragile comfort in the growing gloom. Each step was cautious, the uneven ground hidden beneath fallen leaves a constant tripping hazard. Thorns snagged at their clothes, and the air grew heavy with the damp scent of the earth and the river.
 
 Deeper they ventured, the trees crowding in like silent watchers. The last slivers of sunlight disappeared, and the world became a tapestry of shadows and the faint gurgle of the water. The phone, clutched tightly in their hand, remained stubbornly at two bars, a useless weight. Doubt began to creep in, a cold tendril wrapping around their hope. Had they made the right choice? The river flowed on, indifferent to their fear, leading them further into the heart of the darkening woods.
