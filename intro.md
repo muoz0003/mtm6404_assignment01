@@ -2,7 +2,7 @@
 ## Welcome to this interactive book made by:
 
 ### David Muñoz Jensen - muoz0003
-### Chuhong Feng - philagoodday 
+### Chuhong Feng - philagoodday  feng0088
 ### Solomon Tesfaye - tesf0059
 ### Luz helena Rodriguez - Rodr0288
 
